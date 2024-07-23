@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hello World! It's Orkun Alp.</h1>
 <h3 align="center">🧑🏻‍💻 Software Engineering Student at Karadeniz Technical University</h3>
 
-- 📍 Look at my website! [orkunalpalim.com](orkunalpalim.com)
+- 📍 Look at my website! [orkunalpalim.com](https://www.orkunalpalim.com)
 
 - 📫 Contact me! **orkunalpalim58@gmail.com**
 
