@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 Hello World! It's Orkun Alp.</h1>
 <h3 align="center">🧑🏻‍💻 Software Engineering Student at Karadeniz Technical University</h3>
-<h3 align="center">🧑🏻‍💻 Software Engineering Intern at Fol Yazılım A.Ş.</h3> <br>
+<!-- <h3 align="center">🧑🏻‍💻 Software Engineering Intern at Fol Yazılım A.Ş.</h3> <br> ->
 
 📍 Look at my website! [orkunalpalim.com](https://www.orkunalpalim.com)
 
