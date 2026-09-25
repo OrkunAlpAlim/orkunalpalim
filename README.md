@@ -1,8 +1,9 @@
 <h1 align="center">👋🏻 Hello World! It's Orkun Alp.</h1>
-<h3 align="center">🧑🏻‍💻 Software Engineering Student at Karadeniz Technical University</h3>
+<h3 align="center">🧑🏻‍💻 Software Engineer</h3>
+<h3 align="center">🎓 Graduated from Karadeniz Technical University</h3> 
 <!-- <h3 align="center">🧑🏻‍💻 Software Engineering Intern at Fol Yazılım A.Ş.</h3> <br> -->
 
-<!-- 📍 Look at my website! [orkunalpalim.com](https://www.orkunalpalim.com) -->
+📍 Look at my website! [orkunalpalim.com](https://www.orkunalpalim.com)
 
 📫 Contact me! **orkunalpalim58@gmail.com**
 
